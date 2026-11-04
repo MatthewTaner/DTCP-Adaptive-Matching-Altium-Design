@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=3V3 Pin=C47-2
+Removed Pin From Net: NetName=3V3 Pin=U10-1
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Added Pin To Net: NetName=13V0 Pin=C47-2
+Add Pin To Net: Unknown Pin: Pin C49-1
+Add Pin To Net: Unknown Pin: Pin C49-2
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C53-1
+Add Pin To Net: Unknown Pin: Pin C53-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Add Pin To Net: Unknown Pin: Pin C56-1
+Add Pin To Net: Unknown Pin: Pin C56-2
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L8-1
+Add Pin To Net: Unknown Pin: Pin L8-2
+Add Pin To Net: Unknown Pin: Pin L9-1
+Add Pin To Net: Unknown Pin: Pin L9-2
+Add Pin To Net: Unknown Pin: Pin L10-1
+Add Pin To Net: Unknown Pin: Pin L10-2
+Add Pin To Net: Unknown Pin: Pin L11-1
+Add Pin To Net: Unknown Pin: Pin L11-2
+Add Pin To Net: Unknown Pin: Pin L12-1
+Add Pin To Net: Unknown Pin: Pin L12-2
+Add Pin To Net: Unknown Pin: Pin L13-1
+Add Pin To Net: Unknown Pin: Pin L13-2
+Add Pin To Net: Unknown Pin: Pin L18-1
+Add Pin To Net: Unknown Pin: Pin L18-2
+Add Pin To Net: Unknown Pin: Pin L19-1
+Add Pin To Net: Unknown Pin: Pin L19-2
+Add Pin To Net: Unknown Pin: Pin L20-1
+Add Pin To Net: Unknown Pin: Pin L20-2
+Add Pin To Net: Unknown Pin: Pin L21-1
+Add Pin To Net: Unknown Pin: Pin L21-2
+Add Pin To Net: Unknown Pin: Pin L22-1
+Add Pin To Net: Unknown Pin: Pin L22-2
+Add Pin To Net: Unknown Pin: Pin L23-1
+Add Pin To Net: Unknown Pin: Pin L23-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Added Pin To Net: NetName=13V0 Pin=U10-1
+Add Class Member: Failed to add class member : Component C21 Capacitor
+Add Class Member: Failed to add class member : Component C23 Capacitor
+Add Class Member: Failed to add class member : Component C24 Capacitor
+Add Class Member: Failed to add class member : Component C25 Capacitor
+Add Class Member: Failed to add class member : Component C26 Capacitor
+Add Class Member: Failed to add class member : Component C27 Capacitor
+Add Class Member: Failed to add class member : Component C28 Capacitor
+Add Class Member: Failed to add class member : Component C29 Capacitor
+Add Class Member: Failed to add class member : Component C30 Capacitor
+Add Class Member: Failed to add class member : Component C31 Capacitor
+Add Class Member: Failed to add class member : Component C46 Capacitor
+Add Class Member: Failed to add class member : Component C49 Capacitor
+Add Class Member: Failed to add class member : Component C50 Capacitor
+Add Class Member: Failed to add class member : Component C51 Capacitor
+Add Class Member: Failed to add class member : Component C52 Capacitor
+Add Class Member: Failed to add class member : Component C53 Capacitor
+Add Class Member: Failed to add class member : Component C54 Capacitor
+Add Class Member: Failed to add class member : Component C56 Capacitor
+Add Class Member: Failed to add class member : Component L6 Inductor
+Add Class Member: Failed to add class member : Component L7 Inductor
+Add Class Member: Failed to add class member : Component L8 Inductor
+Add Class Member: Failed to add class member : Component L9 Inductor
+Add Class Member: Failed to add class member : Component L10 Inductor
+Add Class Member: Failed to add class member : Component L11 Inductor
+Add Class Member: Failed to add class member : Component L12 Inductor
+Add Class Member: Failed to add class member : Component L13 Inductor
+Add Class Member: Failed to add class member : Component L18 Inductor
+Add Class Member: Failed to add class member : Component L19 Inductor
+Add Class Member: Failed to add class member : Component L20 Inductor
+Add Class Member: Failed to add class member : Component L21 Inductor
+Add Class Member: Failed to add class member : Component L22 Inductor
+Add Class Member: Failed to add class member : Component L23 Inductor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R26 Resistor
+Add Class Member: Failed to add class member : Component R27 Resistor
