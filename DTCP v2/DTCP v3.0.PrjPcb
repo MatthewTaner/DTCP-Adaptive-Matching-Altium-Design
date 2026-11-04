@@ -576,6 +576,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Tx_Electrode_PA_Power\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DTCP v3.0\Design Rule Check - PCBv2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
