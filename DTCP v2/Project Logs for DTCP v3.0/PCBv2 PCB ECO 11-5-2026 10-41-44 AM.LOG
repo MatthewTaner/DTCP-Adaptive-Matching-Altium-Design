@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=DDS_RST Pin=U1-20
+Removed Pin From Net: NetName=3V3 Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-10
+Removed Pin From Net: NetName=PA2_OUT Pin=U6-11
+Removed Pin From Net: NetName=GND Pin=U6-12
+Removed Pin From Net: NetName=GND Pin=U6-13
+Removed Pin From Net: NetName=GND Pin=U6-14
+Removed Pin From Net: NetName=NetL6_2 Pin=U6-15
+Removed Pin From Net: NetName=GND Pin=U6-16
+Removed Pin From Net: NetName=GND Pin=U6-17
+Removed Pin From Net: NetName=3V3 Pin=U14-2
+Removed Pin From Net: NetName=NetU1_19 Pin=U14-3
+Removed Pin From Net: NetName=GND Pin=U14-4
+Removed Pin From Net: NetName=GND Pin=U14-5
+Removed Pin From Net: NetName=GND Pin=U14-7
+Removed Pin From Net: NetName=GND Pin=U14-8
+Removed Pin From Net: NetName=GND Pin=U14-9
+Removed Pin From Net: NetName=GND Pin=U14-10
+Removed Pin From Net: NetName=GND Pin=U14-12
+Removed Pin From Net: NetName=GND Pin=U14-13
+Removed Pin From Net: NetName=GND Pin=U14-14
+Removed Pin From Net: NetName=NetC49_1 Pin=U14-15
+Removed Pin From Net: NetName=GND Pin=U14-16
+Removed Pin From Net: NetName=GND Pin=U14-17
+Removed Pin From Net: NetName=3V3 Pin=U16-2
+Removed Pin From Net: NetName=NetU1_18 Pin=U16-3
+Removed Pin From Net: NetName=GND Pin=U16-4
+Removed Pin From Net: NetName=GND Pin=U16-5
+Removed Pin From Net: NetName=GND Pin=U16-7
+Removed Pin From Net: NetName=GND Pin=U16-8
+Removed Pin From Net: NetName=GND Pin=U16-9
+Removed Pin From Net: NetName=GND Pin=U16-10
+Removed Pin From Net: NetName=NetL20_1 Pin=U16-11
+Removed Pin From Net: NetName=GND Pin=U16-12
+Removed Pin From Net: NetName=GND Pin=U16-13
+Removed Pin From Net: NetName=GND Pin=U16-14
+Removed Pin From Net: NetName=NetL20_2 Pin=U16-15
+Removed Pin From Net: NetName=GND Pin=U16-16
+Removed Pin From Net: NetName=GND Pin=U16-17
+Removed Member From Class: ClassName=U_Match System Member=U6
+Removed Member From Class: ClassName=U_Match System Member=U14
+Removed Member From Class: ClassName=U_Match System Member=U16
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C49-1
+Add Pin To Net: Unknown Pin: Pin C49-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C53-1
+Add Pin To Net: Unknown Pin: Pin C53-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L8-1
+Add Pin To Net: Unknown Pin: Pin L8-2
+Add Pin To Net: Unknown Pin: Pin L13-1
+Add Pin To Net: Unknown Pin: Pin L13-2
+Add Pin To Net: Unknown Pin: Pin L18-1
+Add Pin To Net: Unknown Pin: Pin L18-2
+Add Pin To Net: Unknown Pin: Pin L20-1
+Add Pin To Net: Unknown Pin: Pin L20-2
+Add Pin To Net: Unknown Pin: Pin L21-1
+Add Pin To Net: Unknown Pin: Pin L21-2
+Add Pin To Net: Unknown Pin: Pin L22-1
+Add Pin To Net: Unknown Pin: Pin L22-2
+Add Pin To Net: Unknown Pin: Pin L23-1
+Add Pin To Net: Unknown Pin: Pin L23-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Added Pin To Net: NetName=DDS_RST Pin=U1-24
+Added Pin To Net: NetName=NetU1_18 Pin=U12-3
+Added Pin To Net: NetName=NetU1_19 Pin=U13-3
+Added Pin To Net: NetName=NetC49_1 Pin=U15-15
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U17-3
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=U15-3
+Added Net: Name=NetU1_21
+Add Class Member: Failed to add class member : Component C21 Capacitor
+Add Class Member: Failed to add class member : Component C23 Capacitor
+Add Class Member: Failed to add class member : Component C24 Capacitor
+Add Class Member: Failed to add class member : Component C25 Capacitor
+Add Class Member: Failed to add class member : Component C28 Capacitor
+Add Class Member: Failed to add class member : Component C29 Capacitor
+Add Class Member: Failed to add class member : Component C31 Capacitor
+Add Class Member: Failed to add class member : Component C49 Capacitor
+Add Class Member: Failed to add class member : Component C51 Capacitor
+Add Class Member: Failed to add class member : Component C52 Capacitor
+Add Class Member: Failed to add class member : Component C53 Capacitor
+Add Class Member: Failed to add class member : Component C54 Capacitor
+Add Class Member: Failed to add class member : Component L6 1206CS-621XJRC
+Add Class Member: Failed to add class member : Component L7 Inductor
+Add Class Member: Failed to add class member : Component L8 Inductor
+Add Class Member: Failed to add class member : Component L13 Inductor
+Add Class Member: Failed to add class member : Component L18 Inductor
+Add Class Member: Failed to add class member : Component L20 Inductor
+Add Class Member: Failed to add class member : Component L21 Inductor
+Add Class Member: Failed to add class member : Component L22 Inductor
+Add Class Member: Failed to add class member : Component L23 Inductor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R26 Resistor
+Add Class Member: Failed to add class member : Component R27 Resistor
