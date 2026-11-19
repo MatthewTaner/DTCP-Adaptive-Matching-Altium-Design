@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC26_1 Pin=R42-2
+Removed Pin From Net: NetName=NetC28_1 Pin=R43-2
+Removed Pin From Net: NetName=ShuntCap Pin=R44-2
+Added Pin To Net: NetName=NetC26_2 Pin=R42-2
+Added Pin To Net: NetName=NetC28_2 Pin=R43-2
+Added Pin To Net: NetName=NetC29_2 Pin=R44-2
