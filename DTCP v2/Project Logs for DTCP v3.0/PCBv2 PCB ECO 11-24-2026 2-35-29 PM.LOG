@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=D7 Pin=J1-7
+Removed Pin From Net: NetName=DDS_RST Pin=J1-8
+Removed Pin From Net: NetName=FQ_UD Pin=J1-9
+Removed Pin From Net: NetName=DDS_WCLK Pin=J1-10
+Added Pin To Net: NetName=DDS_WCLK Pin=J1-7
+Added Pin To Net: NetName=FQ_UD Pin=J1-8
+Added Pin To Net: NetName=DDS_RST Pin=J1-9
+Added Pin To Net: NetName=D7 Pin=J1-10
